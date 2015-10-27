@@ -3,32 +3,32 @@
 ## Usage
 
 Clone the repository:
-```sh
+```
 git clone git@github.com:jamesreimer/full-stack-challenge.git
 ```
 
 Change directories to the project directory:
-```sh
+```
 cd full-stack-challenge
 ```
 
 Install the dependencies:
-```sh
+```
 npm install
 ```
 
 Run the tests:
-```sh
+```
 npm test
 ```
 
 Run the script:
-```sh
+```
 npm start
 ```
 
 Optionally, include a timeout argument (in milliseconds) to stop the script from running indefinitely.
-```sh
+```
 npm start 10000
 ```
 

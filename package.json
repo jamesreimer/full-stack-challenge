@@ -1,0 +1,34 @@
+{
+  "name": "full-stack-challenge",
+  "version": "1.0.0",
+  "description": "InVisionApp Full-Stack Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha test -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jamesreimer/full-stack-challenge.git"
+  },
+  "keywords": [
+    "invisionapp",
+    "node",
+    "nodejs",
+    "node.js",
+    "full-stack"
+  ],
+  "author": "James Reimer <james@jamesreimer.com> (http://jamesreimer.com/)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jamesreimer/full-stack-challenge/issues"
+  },
+  "homepage": "https://github.com/jamesreimer/full-stack-challenge#readme",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "chai3-json-schema": "^1.2.1",
+    "mocha": "^2.3.3"
+  }
+}

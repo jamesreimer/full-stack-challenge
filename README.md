@@ -3,33 +3,33 @@
 ## Usage
 
 Clone the repository:
-```
-git clone git@github.com:jamesreimer/full-stack-challenge.git
+```bash
+$ git clone git@github.com:jamesreimer/full-stack-challenge.git
 ```
 
 Change directories to the project directory:
-```
-cd full-stack-challenge
+```bash
+$ cd full-stack-challenge
 ```
 
 Install the dependencies:
-```
-npm install
+```bash
+$ npm install
 ```
 
 Run the tests:
-```
-npm test
+```bash
+$ npm test
 ```
 
 Run the script:
-```
-npm start
+```bash
+$ npm start
 ```
 
 Optionally, include a timeout argument (in milliseconds) to stop the script from running indefinitely.
-```
-npm start 10000
+```bash
+$ npm start 10000
 ```
 
 ## Activity Diagram
